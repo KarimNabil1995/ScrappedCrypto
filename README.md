@@ -1,3 +1,5 @@
 # ScrappedCrypto
 
-A custom python script that skims through the entire database of https://acceptedhere.io/, scrolls all the way till the end of list, visits the href links of each company respectively, to finally grab a couple of data points from each visited page including -- Entity Name, Location, Involved Indsutries, and supporting crypto  
+Custom python scripts built with Selenium's python webdriver to help with scraping and scrawling dynamic websites heavily rendered with Javascript.
+Scope of collected data is covering Entity names, twitter handles, respective URL of service providers, regisetered locations, involved categories or industires
+Attained material was to be partially used in the University of Cambrdige's center for Alternative Finance --> 3rd Global 3rd global cryptoasset benchmarking study
